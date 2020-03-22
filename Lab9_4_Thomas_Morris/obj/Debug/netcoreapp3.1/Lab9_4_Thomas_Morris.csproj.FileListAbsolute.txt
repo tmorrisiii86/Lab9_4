@@ -1,0 +1,11 @@
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\obj\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.csprojAssemblyReference.cache
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\obj\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.AssemblyInfoInputs.cache
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\obj\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.AssemblyInfo.cs
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\bin\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.exe
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\bin\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.deps.json
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\bin\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.runtimeconfig.json
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\bin\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.runtimeconfig.dev.json
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\bin\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.dll
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\bin\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.pdb
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\obj\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.dll
+C:\Users\tmorr\source\repos\Lab9_4_Thomas_Morris\Lab9_4_Thomas_Morris\obj\Debug\netcoreapp3.1\Lab9_4_Thomas_Morris.pdb
